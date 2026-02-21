@@ -27,9 +27,6 @@ The biggest challenge I faced was that the dataset was super unbalanced (over 13
 
 ## What is in this Repository?
 * `Agri_Predict_Notebook.ipynb`: This is my main code file. It has all 8 of my experiments, the math, the graphs, and explanations for every step.
-* `Dushime_Paulette_Final_Report.pdf`: My full written academic report explaining the science behind my code.
 
 ## Future Plans
 Right now, this AI is written in Python using TensorFlow. In the future, I plan to connect this machine learning model to a web app using **React** and **Node.js** so farmers can actually use it on their phones!
-
----
